@@ -1,0 +1,1 @@
+DeletePartials plugin will delete partial files with priority "Do Not Download" and empty directories after a torrent is removed from Deluge.
